@@ -1,19 +1,6 @@
 [
     {
         "title": "Test Title",
-        "text": "Test text",
-        "note_id": "4536aB"
-    },
-    {
-        "note_id": "4bcf0816-cad7-4a65-b67c-e3068aef3521"
-    },
-    {
-        "note_id": "f4357e5b-f4c2-43d2-ba46-cb40e2831d2e"
-    },
-    {
-        "note_id": "f8454b91-8451-4c46-be60-513894219f08"
-    },
-    {
-        "note_id": "780151c2-f85b-40b6-aec4-44d29f376bc1"
+        "text": "Test text"
     }
 ]
